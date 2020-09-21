@@ -2,10 +2,6 @@
 
 * [Introduction](README.md)
 
-## Introduction
-
-* [Intoduction](introduction/introduction.md)
-
 ## Working with a remote connection to a Campus Computer Lab <a id="working-with-a-remote-connection-to-a-ccl"></a>
 
 * [Establishing a remote connection to a Campus Computer Lab PC](working-with-a-remote-connection-to-a-ccl/establishing-a-remote-connection-to-a-campus-computer-lab-pc.md)
