@@ -66,5 +66,6 @@
 
 ## Working with a remote connection to a Campus Computer Lab <a id="working-with-a-remote-connection-to-a-ccl"></a>
 
-* [Establishing a remote connection to a Campus Computer Lab](working-with-a-remote-connection-to-a-ccl/establishing-a-remote-connection-to-a-campus-computer-lab.md)
+* [Establishing a remote connection to a Campus Computer Lab PC](working-with-a-remote-connection-to-a-ccl/establishing-a-remote-connection-to-a-campus-computer-lab-pc.md)
+* [Connecting to your class folder](working-with-a-remote-connection-to-a-ccl/connecting-to-your-class-folder.md)
 
