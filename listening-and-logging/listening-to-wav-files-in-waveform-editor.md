@@ -7,5 +7,5 @@ In Audition, you’ll use the Waveform Editor to listen to your WAV files. Later
 3. If necessary, click in the **Timeline** to reposition the **playhead**.
 4. Click the **Stop** button or press the **spacebar** to stop playing the WAV file. **Note**: Do not use the **Pause** button. Only use **Play** and **Stop**. \(Using the **Pause** button causes problems when [adding range markers to a WAV file](adding-range-markers-to-wav-file.md).\) 
 
-![](../.gitbook/assets/listening-in-waveform-editor-pc.png)
+![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/listening-in-waveform-editor-pc.png)
 

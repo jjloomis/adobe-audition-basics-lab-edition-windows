@@ -10,5 +10,5 @@ If there are areas in your waveform where audio levels are too high or low, you 
 2. Click and drag to select the waveform area you’d like to adjust. The area will appear highlighted and the **Adjust Amplitude** tool will appear.
 3. Use the **Adjust Amplitude** tool to change to audio level of the selected waveform area. Play back your audio as you make your adjustments to make sure your levels fall between -12 and -6 decibels.
 
-![](../.gitbook/assets/adjust-amplitude-internal-edit.png)
+![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/adjust-amplitude-internal-edit.png)
 

@@ -5,5 +5,5 @@
 3. If a dialog box appears that says: **One or more media files used by this Multitrack Session are located outside of the Session folder. Would you like to copy these media files to the Session folder?** Click **No**.
 4. Close Adobe Audition.
 
-![](../.gitbook/assets/save-all.png)
+![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/save-all.png)
 

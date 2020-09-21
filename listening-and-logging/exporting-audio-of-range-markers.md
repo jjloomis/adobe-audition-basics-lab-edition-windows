@@ -10,5 +10,5 @@ After saving your WAV file, you’ll export the audio of your **range markers** 
 6. In the Export Audio Range dialog box, click the **Browse** button. Navigate to and select your project folder.
 7. Click the **Export** button. The audio from your **range markers** will be saved as sound bite WAV files in your project folder.
 
-![](../.gitbook/assets/range-markers-fly-out-menu.png)
+![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/range-markers-fly-out-menu.png)
 

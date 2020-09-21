@@ -4,5 +4,5 @@ After you’ve created a logical order for your sound bites in the multitrack se
 
 * In an audio track, double-click the sound bite you want to edit. Audition will open the sound bite in the waveform editor. **Note**: The edits you make in the waveform editor are destructive. These edits will change the sound bite WAV files in your project folder.
 
-![](../.gitbook/assets/internal-edit-in-waveform-editor.png)
+![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/internal-edit-in-waveform-editor.png)
 

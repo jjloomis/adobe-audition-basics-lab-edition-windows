@@ -4,12 +4,7 @@
 
 ## Introduction
 
-* [Intoduction](introduction/readme.md)
-
-## Installing Audition on your PC
-
-* [Checking if your computer meets minimum system requirements](installing-audition-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
-* [Installing Audition](installing-audition-on-your-pc/installing-audition.md)
+* [Intoduction](introduction/introduction.md)
 
 ## Listening and Logging
 
@@ -68,4 +63,8 @@
 ## Glossary
 
 * [Glossary](glossary/glossary.md)
+
+## Working with a remote connection to a Campus Computer Lab <a id="working-with-a-remote-connection-to-a-ccl"></a>
+
+* [Establishing a remote connection to a Campus Computer Lab](working-with-a-remote-connection-to-a-ccl/establishing-a-remote-connection-to-a-campus-computer-lab.md)
 

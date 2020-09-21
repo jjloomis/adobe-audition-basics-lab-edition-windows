@@ -6,5 +6,5 @@ Before you can add your sound bite WAV files to your Multitrack Session, you’l
 2. In the **Import File** dialog box, [navigate](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) to your project folder and select your sound bite WAV files. Press and hold the **Ctrl** key \(on keyboard\) to select multiple WAV files. \(Do not select PKF files.\)
 3. Click **Open**. The sound bite WAV files will appear **Files** panel \(upper-left corner\).
 
-![](../.gitbook/assets/importing-sound-bites.png)
+![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/importing-sound-bites.png)
 
