@@ -8,5 +8,5 @@ During playback, your audio levels should fall somewhere between -12 and -6 deci
 4. Play your audio again. Your audio levels should fall somewhere between -12 and -6 decibels. 
 5. If you make a mistake while adjusting your amplitude, go to **Edit** and select **Undo**.
 
-![Adjusting the overall amplitude of a WAV file.](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/raising-or-lowering-audio-level-of-wav-file.png)
+![](../.gitbook/assets/raising-or-lowering-audio-level-of-wav-file.png)
 
