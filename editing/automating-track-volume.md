@@ -12,5 +12,5 @@ To automate the volume of an audio track, you can add keyframes to your sound bi
 6. To delete a keyframe, click it on the yellow volume bar. The keyframe will appear highlighted. 
 7. Press the **Delete** key \(on keyboard.\)
 
-![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/adding-keyframes.png)
+![](../.gitbook/assets/keyframes.png)
 

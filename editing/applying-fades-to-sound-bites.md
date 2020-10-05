@@ -11,5 +11,5 @@ Note: Only apply fades to the sounds bites in your Multitrack Session. Fades cre
 
 Note: As you click and drag your fade handles, aim for a fade shape pictured on the sound bites below. The shape of a fade affects its speed and sound.
 
-![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/audio-fades.png)
+![](../.gitbook/assets/audio-fades.png)
 
