@@ -13,5 +13,3 @@ Note: Audition may create a Conformed-Files folder within your project folder. D
 7. Switch back to your Multitrack Session. 
 8. Add your sound bite audio files to tracks in your Multitrack Session.
 
-![](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/mp3-in-project-folder.png)
-

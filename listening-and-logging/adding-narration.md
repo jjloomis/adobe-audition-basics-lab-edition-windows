@@ -13,5 +13,3 @@ If you’re working on a project that requires narration, you can create sound b
 7. Switch back to your Multitrack Session.
 8. Add your sound bite WAV files to tracks in your Multitrack Session.
 
-![Adding narration.](https://github.com/jjloomis/adobe-audition-basics-remote-connection-to-ccl-edition/tree/b2470c14bd7a8447d88cafc4488838fe4c3352a2/.gitbook/assets/adding-narration.png)
-
