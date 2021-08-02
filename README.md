@@ -14,7 +14,7 @@ PDF, Mobi, and ePub versions of this GitBook are available for download [here](h
 
 ## GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-audition-basic-audio-editing). Test.
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-audition-basic-audio-editing). 
 
 ## License
 
