@@ -10,7 +10,7 @@ Jeffrey John Loomis
 
 ## Other formats
 
-PDF, Mobi, and ePub versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-audition-basic-audio-editing/details).
+PDF, Mobi, and ePub versions of this GitBook are available for download [here](https://www.gitbook.com/book/jjloomis/adobe-audition-basic-audio-editing/details).
 
 ## GitHub
 
