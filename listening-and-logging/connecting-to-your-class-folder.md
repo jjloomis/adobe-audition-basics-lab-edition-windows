@@ -1,9 +1,8 @@
 # Connecting to your class folder
 
-1. [Establish a remote connection to a Campus Computer Lab PC.]()
-2. [Map to your class folder \(uFiles\) using a Campus Computer Lab PC.](https://kb.uwm.edu/uwmhd/page.php?id=57916)
-3. Map network drive folder location is \ad.uwm.edu\shares
-4. Path \(sequence of folders\) to follow to get to your class folder:
+1. [Map to your class folder \(uFiles\) using a Campus Computer Lab PC.](https://kb.uwm.edu/uwmhd/page.php?id=57916)
+2. Map network drive folder location is **\ad.uwm.edu\shares**
+3. Path \(sequence of folders\) to follow to get to your class folder:
    1. \_U\_LS
    2. Courses
    3. JAMS
