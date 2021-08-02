@@ -2,13 +2,9 @@
 
 * [Introduction](README.md)
 
-## Working with a remote connection to a Campus Computer Lab <a id="working-with-a-remote-connection-to-a-ccl"></a>
-
-* [Establishing a remote connection to a Campus Computer Lab PC](working-with-a-remote-connection-to-a-ccl/establishing-a-remote-connection-to-a-campus-computer-lab-pc.md)
-* [Connecting to your class folder](working-with-a-remote-connection-to-a-ccl/connecting-to-your-class-folder.md)
-
 ## Listening and Logging
 
+* [Connecting to your class folder](listening-and-logging/connecting-to-your-class-folder.md)
 * [Opening Audition](listening-and-logging/opening-audition.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Opening an Existing Multitrack Session](listening-and-logging/open-an-existing-multitrack-session.md)
