@@ -5,5 +5,3 @@
 3. The sound bites of each interviewee should occupy two audio tracks. Stagger the sound bites between the first and second audio tracks—alternating between both.
 4. The pad at the end of a sound bite should slightly overlap the pad at the beggining of the next sound bite. [Zoom in](../listening-and-logging/zooming-in-out.md) to adjust the sound bites.
 
-![](../.gitbook/assets/adding-sound-bites-to-tracks.png)
-
