@@ -4,6 +4,7 @@
 
 ## Listening and Logging
 
+* [Connecting to Your Class Folder](listening-and-logging/connecting-to-your-class-folder.md)
 * [Opening Audition](listening-and-logging/opening-audition.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Opening an Existing Multitrack Session](listening-and-logging/open-an-existing-multitrack-session.md)
