@@ -2,7 +2,7 @@
 
 Before you begin working in Audition, you'll need to connect to your class folder. Your project folder \(and all audio files related to your project\) will live in this location.
 
-### **Mapping a network drive on campus**
+### **Mapping a network drive**
 
 1. **Right-click** the **Start** button \(bottom left\) and select **File Explorer**. 
 2. In the **File Explorer** window, click **This PC** \(on left.\) 
