@@ -8,7 +8,7 @@ Jeffrey John Loomis
 
 ### GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the GitHub repository. 
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-audition-basics-lab-edition-windows). 
 
 ### License
 
