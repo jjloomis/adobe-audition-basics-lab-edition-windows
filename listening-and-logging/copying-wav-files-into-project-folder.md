@@ -1,8 +1,8 @@
 # Copying WAV Files From a Zoom to Your Project Folder
 
-Before editing the audio you captured with your Zoom recorder, you'll copy the WAV files on its SD card into your project folder.
+Before editing the audio you captured with your **Zoom** recorder, you'll copy the WAV files on its **SD card** into your project folder.
 
-**Note**: Never import WAV files into Audition directly from a Zoom recorder. Copy the WAV files into your project folder. Then import the WAV files into Audition from your project folder.
+**Note**: Never import WAV files into **Audition** directly from a **Zoom** recorder. Copy the WAV files into your project folder. Then import the WAV files into **Audition** from your project folder.
 
 ## Zoom H2n
 
