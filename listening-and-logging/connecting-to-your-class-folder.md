@@ -7,6 +7,7 @@ Before you begin working in **Audition**, you'll need to connect to your class f
 3. Click the **Computer** tab \(top of window.\) In the drop-down menu, select **Map network drive**. 
 4. Leave the default **Drive** letter selected. In the **Folder** field, copy and paste the following string \(be sure to copy the full string\):   `\\ad.uwm.edu\shares\_U_LS\Courses\JAMS` 
 5. Click **Finish**. Your class folder will appear in the **This PC** area as a connected drive. 
+6. If necessary, [navigate](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows-edition/navigating-folder-tree) to your class folder.
 
 ![Connecting to your class folder on a PC.](../.gitbook/assets/connecting-to-your-class-folder.png)
 
