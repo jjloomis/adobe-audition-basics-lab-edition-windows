@@ -8,7 +8,7 @@ Network storage area for multimedia projects.
 
 Folder that contains [transcoded](https://en.wikipedia.org/wiki/Transcoding) audio files that match your multitrack session settings. Do not delete or move the files in this folder.
 
-#### MP3
+### MP3
 
 Compressed audio file format. Often used for online delivery of audio.
 
