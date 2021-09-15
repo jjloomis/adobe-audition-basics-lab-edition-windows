@@ -28,15 +28,15 @@ Peak files that help display waveforms. Ignore these files.
 
 Main project folder that contains all the files associated with your project.
 
-## SESX
+### SESX
 
 Adobe Audition Multitrack Session project file.
 
-## WAV
+### WAV
 
 High-quality audio file format.
 
-## Waveform editor
+### Waveform editor
 
 Editing interface used when working with the content of WAV files.
 
