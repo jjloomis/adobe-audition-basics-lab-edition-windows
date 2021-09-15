@@ -1,34 +1,30 @@
 # Glossary
 
-## Class folder
+### Class folder
 
 Network storage area for multimedia projects.
 
-## Conformed-Files
+### Conformed-Files
 
 Folder that contains [transcoded](https://en.wikipedia.org/wiki/Transcoding) audio files that match your multitrack session settings. Do not delete or move the files in this folder.
 
-## EXE
-
-Executable file. Often used to install a program.
-
-## MP3
+### MP3
 
 Compressed audio file format. Often used for online delivery of audio.
 
-## Multitrack session
+### Multitrack session
 
 Project file \(SESX\) and editing interface used when arranging the order and cadence of sound bite WAV files.
 
-## Pad
+### Pad
 
 Additional audio at the beginning and end of a sound bite.
 
-## PKF
+### PKF
 
 Peak files that help display waveforms. Ignore these files.
 
-## Project folder
+### Project folder
 
 Main project folder that contains all the files associated with your project.
 
