@@ -49,8 +49,9 @@
 ## Troubleshooting
 
 * [Warning Boxes: What to Click](troubleshooting/warning-boxes.md)
+* [Changing Audio Output (Headphones or Speakers)](troubleshooting/changing-audio-output-headphones-or-speakers.md)
+* [Audio Sounds Like It's in an Auditorium](troubleshooting/audio-sounds-like-its-in-an-auditorium.md)
 
 ## Glossary
 
 * [Glossary](glossary/glossary.md)
-
