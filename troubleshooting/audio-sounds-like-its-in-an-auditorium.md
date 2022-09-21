@@ -1,5 +1,7 @@
 # Audio Sounds Like It's in an Auditorium
 
+### Bolton 296
+
 1. In the **Windows search field** (lower left), search for **Control Panel**.
 2. In the **Control Panel** window, click **Hardware and Sound**.
 3. In the **Hardware and Sound** window, click **Sound**.
@@ -9,3 +11,10 @@
 7. In the **Sound** window, click **OK**.
 
 ![](../.gitbook/assets/disable-audio-enhancements.PNG)
+
+### Bolton 510
+
+* In the **Windows search field** (lower left), search for **Control Panel**.
+* In the **Control Panel** window, click **Hardware and Sound**.
+* In the **Hardware and Sound** window, click **Sound**.
+
