@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to **Adobe Audition 2021 Basics | Windows Edition**. You’ll use these instructions to create audio projects for JAMS classes. Because **Adobe Audition** is a destructive audio editing program, you’ll need to follow the JAMS audio editing workflow outlined in these instructions. The JAMS audio editing workflow will prevent you from losing portions of your audio files as you edit on your project. TEST 8/15/23
+Welcome to **Adobe Audition 2021 Basics | Windows Edition**. You’ll use these instructions to create audio projects for JAMS classes. Because **Adobe Audition** is a destructive audio editing program, you’ll need to follow the JAMS audio editing workflow outlined in these instructions. The JAMS audio editing workflow will prevent you from losing portions of your audio files as you edit on your project.
 
 ### Author
 
