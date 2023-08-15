@@ -10,5 +10,5 @@ To work with WAV files that were previously saved or copied to your project fold
 2. Double-click your SESX file to open your multitrack session.&#x20;
 3. To continue working with previously saved WAV files that are in your project folder, [import the WAV files into Audition](importing-wav-files.md).
 
-![Opening an existing multitrack session.](../.gitbook/assets/opening-existing-project.png)
+![Opening an existing multitrack session.](../.gitbook/assets/opening-existing-project.PNG)
 
