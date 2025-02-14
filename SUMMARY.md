@@ -18,6 +18,7 @@
 * [Zooming In and Out](listening-and-logging/zooming-in-out.md)
 * [Adding Range Markers to a WAV File](listening-and-logging/adding-range-markers-to-wav-file.md)
 * [Saving a WAV File with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
+* [Preparing a Project for Transcription at Home](listening-and-logging/preparing-a-project-for-transcription-at-home.md)
 * [Writing a Script](listening-and-logging/writing-a-script.md)
 * [Recording Narration with Zoom H2N](listening-and-logging/recording-narration-with-zoom-h2n.md)
 * [Adding Narration to Your Project](listening-and-logging/adding-narration.md)
