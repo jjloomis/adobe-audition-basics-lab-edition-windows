@@ -1,6 +1,6 @@
 # Preparing a Project for Transcription at Home
 
-1. After [adding range markers to a WAV file](adding-range-markers-to-wav-file.md) in the Waveform Editor, go to **File** on the menu bar and select **Export** and then choose **File**.
+1. After [adding range markers to a WAV file](adding-range-markers-to-wav-file.md) in the **Waveform Editor**, go to **File** on the menu bar and select **Export** and then choose **File**.
 2. In the **Export File** dialog box, click the **Format** drop-down list and choose **MP3 Audio (\*.mp3)**.
 3. Click the **Browse** button and then navigate to and select the **Documents** folder.
 4. Click the **OK** button. A warning box will appear. Click **Yes**.
