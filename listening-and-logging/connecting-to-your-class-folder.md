@@ -12,9 +12,7 @@ Before you begin working in **Audition**, you'll need to connect to your class f
 5. Click **Finish**. Your class folder will appear in the **This PC** area as a connected drive (probably the **Z** drive.)&#x20;
 6. If necessary, [navigate](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows-edition/navigating-folder-tree) to your class folder.
 
-![Connecting to your class folder on a PC.](../.gitbook/assets/connecting-to-your-class-folder.PNG)
-
-
+<figure><img src="../.gitbook/assets/connecting-to-class-folders-windows-11.png" alt=""><figcaption><p>Connecting to your class folder on a PC.</p></figcaption></figure>
 
 
 
