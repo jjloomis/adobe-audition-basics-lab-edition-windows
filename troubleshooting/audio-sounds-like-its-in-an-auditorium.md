@@ -1,7 +1,5 @@
 # Audio Sounds Like It's in an Auditorium
 
-###
-
 1. If you haven't already done so, connect your headphones to the computer.&#x20;
 2. In the **Windows search** field (bottom center of screen), search for **Sound Settings**.
 3. In the **Sound Settings** window, click **Headphones**.
