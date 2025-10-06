@@ -2,7 +2,7 @@
 
 ###
 
-1. If you haven't already done so, connect your headphones to the computer. (**Note**: You'll need to connect 1/8 inch jack style headphones to the computer—not Bluetooth headphones.)
+1. If you haven't already done so, connect your headphones to the computer.&#x20;
 2. In the **Windows search field** (bottom center of screen), search for **Sound Settings**.
 3. In the **Sound Settings** window, click **Headphones**.
 4. In the **Output settings** area, click scroll to **Audio enhancements**.&#x20;
@@ -10,5 +10,4 @@
 6. If necessary, click the **Spatial sound** drop-down list and select **Off**.&#x20;
 7. When finished, close the **Sound Settings** window.&#x20;
 
-<figure><img src="../.gitbook/assets/dell-audio.PNG" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/auditorium-sound-windows-11.png" alt=""><figcaption></figcaption></figure>
