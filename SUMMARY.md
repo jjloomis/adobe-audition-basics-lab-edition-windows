@@ -40,7 +40,7 @@
 * [Moving Multiple Sound Bites](editing/moving-multiple-sound-bites.md)
 * [Applying Fades to Sound Bites](editing/applying-fades-to-sound-bites.md)
 * [Using Track Controls](editing/using-track-controls.md)
-* [Automating Track Volume with Keyframes](editing/automating-track-volume.md)
+* [Using Keyframes to Change Clip Volume in Multitrack Session](editing/automating-track-volume.md)
 
 ## Exporting
 
