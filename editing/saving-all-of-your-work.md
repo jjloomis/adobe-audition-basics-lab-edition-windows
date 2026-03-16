@@ -5,4 +5,4 @@
 3. If a dialog box appears that says: **One or more media files used by this Multitrack Session are located outside of the Session folder. Would you like to copy these media files to the Session folder?** Click **No**.
 4. Close **Adobe Audition**.
 
-![Saving all changes to open files.](../.gitbook/assets/saving-all-of-your-work.PNG)
+<figure><img src="../.gitbook/assets/saving-all-of-your-work.PNG" alt="Saving all open files in an Adobe Audition project"><figcaption><p>Saving all open files in an Adobe Audition project.</p></figcaption></figure>

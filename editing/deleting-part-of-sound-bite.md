@@ -5,4 +5,4 @@
 3. Press the **spacebar** (on keyboard) to preview the area you’d like to delete. **Note**: You can always delete a small portion of the area and then delete more.
 4. Press the **Backspace** key (on keyboard.)
 
-![Selected area within sound bite before being deleted.](../.gitbook/assets/deleting-part-of-a-sound-bite.PNG)
+<figure><img src="../.gitbook/assets/deleting-part-of-a-sound-bite.PNG" alt="Deleting part of a sound bite in the Waveform Editor"><figcaption><p>Deleting part of a sound bite in the Waveform Editor.</p></figcaption></figure>
