@@ -8,4 +8,4 @@
 6. If necessary, click the **Spatial sound** drop-down list and select **Off**.&#x20;
 7. When finished, close the **Sound Settings** window.&#x20;
 
-<figure><img src="../.gitbook/assets/auditorium-sound-windows-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/auditorium-sound-windows-11.png" alt="Turning off audio enhancements option"><figcaption><p>Turning off audio enhancements option.</p></figcaption></figure>

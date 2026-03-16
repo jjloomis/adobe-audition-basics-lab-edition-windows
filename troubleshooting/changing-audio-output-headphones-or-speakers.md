@@ -8,4 +8,4 @@
 6. When finished, click **OK**.
 7. **Note**: If you're using headphones, you may need to make sure [audio enhancements are disabled](audio-sounds-like-its-in-an-auditorium.md).
 
-![](../.gitbook/assets/changing-audio-output.PNG)
+<figure><img src="../.gitbook/assets/changing-audio-output.PNG" alt="Selecting headphones as audio output"><figcaption><p>Selecting headphones as audio output.</p></figcaption></figure>
