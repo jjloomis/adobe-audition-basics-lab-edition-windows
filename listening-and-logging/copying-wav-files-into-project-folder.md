@@ -16,4 +16,4 @@ Before editing the audio you captured with your **Zoom** recorder, you'll copy t
 8. In the **Stereo** folder, double click **FOLDER01**. All of your audio files will appear in this folder. By default, audio files will have the following name format: ZOOM000X.WAV. (Note: The date and time stamps for the audio files will not be correct.)
 9. Select all of the WAV files in **FOLDER01**. (**Control A** is an easy keyboard shortcut to select everything in a folder.) Copy all of the WAV files to your project folder.
 
-![WAV files copied from Zoom H2n to project folder.](../.gitbook/assets/copying-wav-files-to-class-folder.PNG)
+<figure><img src="../.gitbook/assets/copying-wav-files-to-class-folder.PNG" alt="Copying WAV files from Zoom H2n into project folder."><figcaption><p>Copying WAV files from Zoom H2n into project folder.</p></figcaption></figure>

@@ -8,4 +8,4 @@ During playback, your audio levels should fall somewhere between -12 and -6 deci
 4. Play your audio again. Your audio levels should fall somewhere between -12 and -6 decibels.&#x20;
 5. If you make a mistake while adjusting your amplitude, go to **Edit** and select **Undo**.
 
-![Adjusting the amplitude of a WAV file.](../.gitbook/assets/adjusting-amplitude.PNG)
+<figure><img src="../.gitbook/assets/adjusting-amplitude.PNG" alt="Adjusting the amplitude of a WAV file in the Waveform Editor"><figcaption><p>Adjusting the amplitude of a WAV file in the Waveform Editor.</p></figcaption></figure>

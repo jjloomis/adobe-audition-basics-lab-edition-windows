@@ -10,4 +10,4 @@ When you create a Multitrack Session (SESX file), **Audition** automatically cre
    3. In the **Session Name** field, enter **your-last-name-project-name**. Example: **jones-interview-project**.
 4. When finished, click **OK**.
 
-![Creating a new multitrack session.](../.gitbook/assets/creating-new-multitrack.PNG)
+<figure><img src="../.gitbook/assets/creating-new-multitrack.PNG" alt="Creating a new Multitrack Session."><figcaption><p>Creating a new Multitrack Session.</p></figcaption></figure>

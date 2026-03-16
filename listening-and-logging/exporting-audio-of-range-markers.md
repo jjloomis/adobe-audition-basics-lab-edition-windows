@@ -10,4 +10,4 @@ After saving your WAV file, you’ll export the audio of your **Range Markers** 
 6. In the **Export Audio Range** dialog box, click the **Browse** button. [Navigate](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows-edition/navigating-folder-tree) to and select your project folder.
 7. Click the **Export** button. The audio from your **Range Markers** will be saved as sound bite WAV files in your project folder.
 
-![Exporting audio of range markers to project folder.](../.gitbook/assets/exporting-audio-of-range-markers.PNG)
+<figure><img src="../.gitbook/assets/exporting-audio-of-range-markers.PNG" alt="Exporting audio of Range Markers to project folder"><figcaption><p>Exporting audio of Range Markers to project folder.</p></figcaption></figure>
